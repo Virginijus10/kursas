@@ -1,2 +1,0 @@
-# kursas
-hello world
